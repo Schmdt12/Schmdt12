@@ -3,9 +3,8 @@ Olá, eu sou a Manu (✿◕‿◕✿)
 
 - 🌱 I’m currently learning Java Script
 - 💬 Ask me about my life
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: i love cats
 
 <div align="center">
   <a href="https://github.com/Schmdt12">
